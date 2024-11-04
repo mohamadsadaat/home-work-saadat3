@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\bin\Debug\HOMEWORK_SAADAT_3_Linked list.exe.config
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\bin\Debug\HOMEWORK_SAADAT_3_Linked list.exe
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\bin\Debug\HOMEWORK_SAADAT_3_Linked list.pdb
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\obj\Debug\HOMEWORK_SAADAT_3_Linked list.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\obj\Debug\HOMEWORK_SAADAT_3_Linked list.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\obj\Debug\HOMEWORK_SAADAT_3_Linked list.exe
+C:\Users\DELL\source\repos\HOMEWORK_SAADAT_3_Linked list\obj\Debug\HOMEWORK_SAADAT_3_Linked list.pdb
